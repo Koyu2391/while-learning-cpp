@@ -19,7 +19,7 @@ int main() {
     }
 
     for (int i = size - 1; i >= 0; i-- ) {
-        cout << arr[i];
+        cout << arr[i] << " ";
     }
     return 0;
 }
